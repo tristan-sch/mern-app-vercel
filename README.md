@@ -3,7 +3,7 @@
 Project for my assignment for Module 5: **Back-end - NoSQL in the cloud**
 
 - Go to the [guide](https://io.tskoli.dev/guides/61d321e7ef0b55000925bc5b)
-- Go to the [live demo](https://vercel.com/tristan-sch/mern-app-vercel)
+- Go to the [live demo](https://mern-app-vercel.vercel.app/)
 
 ## The assignment
 
