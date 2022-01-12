@@ -19,7 +19,6 @@ Project for my assignment for Module 5: **Back-end - NoSQL in the cloud**
 
 - MERN -> MongoDB, Express, React, Node
 - Next.js
-- Bootstrap
 - Deployment on [Vercel](https://vercel.com)
 
 ## Resources
