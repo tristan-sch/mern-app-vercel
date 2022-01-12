@@ -1,35 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # mern-app-vercel
+
+This project my assignment for Module 5: **Back-end - NoSQL in the cloud**
+
+- Go to the [guide](https://io.tskoli.dev/guides/61d321e7ef0b55000925bc5b)
+- Go to the [live demo](https://vercel.com/tristan-sch/mern-app-vercel)
+
+## The assignment
+
+- I wanted to follow this [tutorial](https://www.youtube.com/watch?v=nUbNn0voiBI) to create a **React app** but it did not go as planned because I could not deploy on Vercel.
+
+- So I deciced to follow this other [tutorial](https://www.section.io/engineering-education/build-nextjs-with-mongodb-and-deploy-on-vercel/) to create a **Next.js app** and it went as planned.
+
+- But then I wanted to figure out why the React app was not working on Vercel (although it worked locally) so I tried to deploy on Vercel another React app, the one from the [tutorial](https://ellertsmarik.medium.com/), check out this repository if you're interested: [hello-back-end-NoSQL](https://github.com/tristan-sch/hello-back-end-NoSQL).
+
+- Finally I could update the React app from the first [tutorial](https://www.youtube.com/watch?v=nUbNn0voiBI) and deploy it on Vercel. Check out this repository if you're interested: [Frontend-mern-notes-app](https://github.com/tristan-sch/Frontend-mern-notes-app).
+
+## Stack
+
+- MERN -> MongoDB, Express, React, Node
+- Next.js
+- Bootstrap
+- Deployment on [Vercel](https://vercel.com)
+
+## Resources
+
+- [The MERN stack for beginners](https://ellertsmarik.medium.com/)
+- [How to build a Nextjs application with MongoDB and deploy on Vercel](https://www.section.io/engineering-education/build-nextjs-with-mongodb-and-deploy-on-vercel/)
+- [Pass data between React UI and MongoDB Atlas | MERN Tutorial](https://www.youtube.com/watch?v=nUbNn0voiBI)
